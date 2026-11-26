@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Evaluation outputs and potentially sensitive data
+errors.csv
+predictions*.json
+*.pdf
+*.zip
+*.jpg
+*.jpeg
+*.png
+*.docx
+*.xlsx
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
